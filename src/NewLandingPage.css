@@ -1,0 +1,8 @@
+
+
+.bodylandingpage {
+  background-image: url('./asserts/neww.webp'); 
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
